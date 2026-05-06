@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to right, #667eea, #764ba2);
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
